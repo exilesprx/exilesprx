@@ -1,3 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=exilesprx&show_icons=true&theme=onedark)
+![Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exilesprx&layout=compact&theme=onedark&exclude_repo=exilesprx.github.io)
+![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
